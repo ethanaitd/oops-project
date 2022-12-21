@@ -154,8 +154,8 @@ public:
       {
           cout<<"Not in the company"<<endl;
       }
-  }
-  */
+  }*/
+
 
   void displayCmp()
   {
