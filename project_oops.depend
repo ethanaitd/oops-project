@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1671623619 source:c:\users\ethan menezes\desktop\c programs\oops_lab-file\oops_lab\project_oops\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	<conio.h>
+	<string.h>
+	<iomanip>
+

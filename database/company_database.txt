@@ -1,0 +1,4 @@
+google         bangalore      6lpa           8.5            5              null
+amazon         noida          7lpa           8.6            10             null
+microsoft      mumbai         9lpa           8.1            8              null
+creativeJ      goa            7lpa           8.4            10             ethan
